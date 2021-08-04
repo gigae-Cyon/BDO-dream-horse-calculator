@@ -8,6 +8,8 @@ Initial probability is 1%. Every fail in the reinforce, the probability increase
 In src directory, there are 2 java files. DreamHorseTry1.java is more memory saving than DreamHorseTry.java.<br/>
 src디렉토리의 두 개의 java파일 중 DreamHorseTry1.java가 더 메모리 효율적인 버전입니다.<br/>
 
+DreamHorseTry1.java의 numDH를 더 큰 수로 설정하며 환상마를 더 많이 만들어 볼 수 있습니다.
+
 21.05.03 8티 말도 없을 때 환트 준비하며 만들었던 코드
 
 ### DreamHorseTry1.java
